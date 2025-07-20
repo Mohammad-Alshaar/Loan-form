@@ -48,7 +48,7 @@ export default function LoanForm() {
     <div onClick={divClickHandler}>
       <form>
         <h1>Requesting a Loan </h1>
-        <hr />
+
         {/* <label>Name</label>
         <input
           value={dataForm.name}
